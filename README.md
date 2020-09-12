@@ -17,4 +17,4 @@ We have many different titles to be retiring soon. These are the counts of the t
 
 
 ## Summary
-In summary, there will be a need for over 40,000 jobs after this "silver tsunami" has passed. While we might not have all of the jobs properly ready-to-go with replacements, we have a qualified staff that is ready to be promoted. 
+In summary, there will be a need for over 40,000 jobs after this "silver tsunami" has passed. While we might not have all of the jobs properly ready-to-go with replacements, we have a qualified staff that is ready to be promoted. While we don't have all the numbers, this will leave economic growth in the job market, since there is over 40,000 jobs to be retired soon. This gives Pewlett Hackard excellent recruiting experience.

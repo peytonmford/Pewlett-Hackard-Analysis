@@ -9,9 +9,10 @@ There are many results from conducting this analysis, such as:
 - Unique titles to retire
 
 The number of employees that could potentially retire within the next couple of years is overwhemling large. With over 40,000 employees in the retirement age, Pewlett Hackard will have lots of jobs open. Pewlett Hackard might not have the exact number of employees to take over the ones retiring, but they do have excellent employees to be trained for some of those positions. 
+
 ![employee_count](/Resources/employee_count.png)
 
-We have many different titles to be retiring soon.
+We have many different titles to be retiring soon. These are the counts of the titles to be retiring and their unique names.
 ![retiring_titles](/Resources/retiring_titles.png)
 
 
